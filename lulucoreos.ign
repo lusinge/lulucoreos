@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.5.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "lucien",
+        "sshAuthorizedKeys": [
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFITrLgzLVjx4HquGZZLKZxyFpE0N3DohdMSOIyJ2EE3 lucien@framelulu"
+        ]
+      }
+    ]
+  }
+}

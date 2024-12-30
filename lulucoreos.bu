@@ -1,0 +1,8 @@
+variant: fcos
+version: 1.6.0
+passwd:
+  users:
+    - name: lucien
+      ssh_authorized_keys:
+        - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFITrLgzLVjx4HquGZZLKZxyFpE0N3DohdMSOIyJ2EE3 lucien@framelulu
+
