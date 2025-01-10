@@ -5,6 +5,9 @@
   "passwd": {
     "users": [
       {
+        "groups": [
+          "wheel"
+        ],
         "name": "lucien",
         "passwordHash": "$y$j9T$2bpWBWDo3FQwDhtlMRtZG1$dZVsWNmY4l5egiXX32qAL0OTTwU0tUdvC516pnSh03D",
         "sshAuthorizedKeys": [
