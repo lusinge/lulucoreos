@@ -5,4 +5,5 @@ passwd:
     - name: lucien
       ssh_authorized_keys:
         - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFITrLgzLVjx4HquGZZLKZxyFpE0N3DohdMSOIyJ2EE3 lucien@framelulu
+      password_hash: $y$j9T$2bpWBWDo3FQwDhtlMRtZG1$dZVsWNmY4l5egiXX32qAL0OTTwU0tUdvC516pnSh03D
 
