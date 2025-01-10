@@ -6,6 +6,7 @@
     "users": [
       {
         "name": "lucien",
+        "passwordHash": "$y$j9T$2bpWBWDo3FQwDhtlMRtZG1$dZVsWNmY4l5egiXX32qAL0OTTwU0tUdvC516pnSh03D",
         "sshAuthorizedKeys": [
           "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFITrLgzLVjx4HquGZZLKZxyFpE0N3DohdMSOIyJ2EE3 lucien@framelulu"
         ]
