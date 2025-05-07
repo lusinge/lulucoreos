@@ -1,5 +1,5 @@
-variant: fcos
-version: 1.6.0
+variant: fiot
+version: 1.0.0
 passwd:
   users:
     - name: lucien
